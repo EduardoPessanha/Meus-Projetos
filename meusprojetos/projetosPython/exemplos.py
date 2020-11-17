@@ -2,12 +2,14 @@
 Este arquivo é para fazer testes de códigos, antes de incorpora-los as suas respectivas
 rotinas.
 """
-# from projetosPython.pacotes.utilitarios import pyhelp
-# from projetosPython.pacotes.formato import centro
-from meusprojetos.projetosPython.pacotes.formato import centro
-from meusprojetos.projetosPython.pacotes.utilitarios import pyhelp
+from projetosPython.pacote.utilitarios import pyhelp
+from projetosPython.pacote.formato import centro
+# from meusprojetos.projetosPython.pacote.formato import centro
+# from meusprojetos.projetosPython.pacote.utilitarios import pyhelp
+
 
 pyhelp()
+
 
 # Example (Hello, World):
 # import tkinter
