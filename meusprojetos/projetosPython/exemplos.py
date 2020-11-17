@@ -1,11 +1,11 @@
 """
-Este arquivo é para fazer testes de códigos, antes de incorpora-los as sua respectivas
+Este arquivo é para fazer testes de códigos, antes de incorpora-los as suas respectivas
 rotinas.
 """
-from pacotes.formato import centro
-from pacotes.utilitarios import pyhelp
-
-
+# from projetosPython.pacotes.utilitarios import pyhelp
+# from projetosPython.pacotes.formato import centro
+from meusprojetos.projetosPython.pacotes.formato import centro
+from meusprojetos.projetosPython.pacotes.utilitarios import pyhelp
 
 pyhelp()
 
