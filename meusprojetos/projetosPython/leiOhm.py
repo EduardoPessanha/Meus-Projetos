@@ -10,7 +10,7 @@ while fim not in 'N':
 *           I = Corrente               *
 *           R = Resistência            *
 *                                      *
-****************************************''')
+****************************************''')  # Acrescentar 'X' = Sair
     while True:
         opcao = str(input('Escolha a sua opção (V/I/R): ')).upper().strip()[0]
         if opcao not in 'VIR':
