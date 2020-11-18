@@ -2,13 +2,11 @@
 Este arquivo é para fazer testes de códigos, antes de incorpora-los as suas respectivas
 rotinas.
 """
-from projetosPython.pacote.utilitarios import pyhelp
-from projetosPython.pacote.formato import centro
-# from meusprojetos.projetosPython.pacote.formato import centro
-# from meusprojetos.projetosPython.pacote.utilitarios import pyhelp
+from pacotes.utilitarios import pyhelp
+from pacotes.formatos import centro
 
 
-pyhelp()
+# pyhelp()
 
 
 # Example (Hello, World):
@@ -21,6 +19,8 @@ pyhelp()
 # label.pack(fill=X, expand=1)
 # button = tkinter.Button(frame,text="Exit",command=tk.destroy)
 # button.pack(side=BOTTOM)
+
+
 # tk.mainloop()
 
 # Exception
@@ -38,7 +38,8 @@ pyhelp()
 # def centro(n):
 #     return f'^{n}'
 
-
-print('='*30)
-print(f'{"Este é um texto":{centro(30)}}')
-print('*'*30)
+texto = "Este é um texto que foi centrado pela função centro(n)"
+n = len(texto) + 8
+print('='*n)
+print(f'{texto:{centro(n)}}')
+print('='*n)
