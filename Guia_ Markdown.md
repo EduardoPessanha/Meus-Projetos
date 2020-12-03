@@ -66,4 +66,12 @@ Terminou a tabela
 
 emoji:
 
-Olá Galerar :vulcan_salute: 
+Olá Galera :vulcan_salute: 🖖
+
+:vulcan_salute:  🖖
+
+github.com/ikatyang
+
+site: emojipedia.org
+
+🦁
