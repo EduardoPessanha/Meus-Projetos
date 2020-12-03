@@ -1,0 +1,49 @@
+Estou aprendendo linguagem **Markdown** no Curso em vídeo de Git e GitHub
+
+2 * ou 2 _ -> **Negrito** - __Negrito__ (não pode ter espaço).
+
+1 * ou _ -> *Itálico* - _Itálico_
+
+2 ~ -> ~~Riscado~~
+
+**Títulos**:
+
+# Título -> título nível 1
+
+## Título -> título nível 2
+
+###  Título -> título nível 3
+
+3 - ou 3 * -> cria linha: 
+***
+---
+
+Podemos __*misturar*__ configurações
+
+Listas numeradas: número e ponto:
+
+1. Teste 1
+1. Teste 2
+1. Teste 3
+   1. Teste 4
+   1. Teste 5
+
+Lista com marcadores:
+
+* Teste
+* Teste
+  * Teste
+* Teste
+
+- Teste
+  - Teste
+
+Lista de tarefas:
+
+- [x] Criar página principal.
+- [x] Criar página da loja.
+- [] Finalizar reunião como Cliente
+- [] Receber o pagamento
+
+
+
