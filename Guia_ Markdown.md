@@ -54,3 +54,17 @@ Imagem:
 Link:
 
 Clique aqui: [Coração Rubro Negro](https://user-images.githubusercontent.com/68357896/101087842-97e79a00-3591-11eb-8e80-62a2c4e19ac7.png)
+
+Tabelas:
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 9
+
+Terminou a tabela
+
+emoji:
+
+Olá galera! :vulcansalute
+
