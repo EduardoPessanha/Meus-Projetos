@@ -66,5 +66,4 @@ Terminou a tabela
 
 emoji:
 
-Olá galera! :vulcansalute
-
+Olá Galerar :vulcan_salute: 
