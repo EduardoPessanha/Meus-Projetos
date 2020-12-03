@@ -42,8 +42,8 @@ Lista de tarefas:
 
 - [x] Criar página principal.
 - [x] Criar página da loja.
-- [] Finalizar reunião como Cliente
+- [] Finalizar reunião como Client
 - [] Receber o pagamento
 
-
+Colocando imagens e links:
 
