@@ -47,5 +47,10 @@ Lista de tarefas:
 
 Colocando imagens e links:
 
+Imagem:
+
 ![Coração Rubro Negro](https://user-images.githubusercontent.com/68357896/101087842-97e79a00-3591-11eb-8e80-62a2c4e19ac7.png)
 
+Link:
+
+Clique aqui: [Coração Rubro Negro](https://user-images.githubusercontent.com/68357896/101087842-97e79a00-3591-11eb-8e80-62a2c4e19ac7.png)
